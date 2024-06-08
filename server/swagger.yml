@@ -1,0 +1,31 @@
+# definitions
+definitions:
+  distributeJetton:
+    type: object
+    required:
+      - contractAddress
+      - jettonWalletAddress
+      - responseDestination
+      - jettonMasterAddress
+      - recipients
+    properties:
+      contractAddress:
+        type: string
+        description: Sender's Contract Address
+      jettonWalletAddress:
+        type: string
+        description: Your JettonWallet Address
+      jettonMasterAddress:
+        type: string
+        description: Your Jetton Address
+      responseDestination:
+        type: string
+        description: Address for response
+      recipients:
+        type: object
+        description: Recipients
+        example: {"UQCxNYjemj5i60KBuuXN71tY_TvrTg7Jpuzxd43_yT5ISALo": 123}
+
+schemes:
+  - https
+  - http

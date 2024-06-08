@@ -45,3 +45,19 @@ Run the script to execute the distribution:
 ```bash
 npm run start
 ```
+
+# API Tool for distributing
+In response to the request, the service generates a BOC transaction (Bag of Cells) and converts it into a universal format, which allows the transaction to be executed using any wallet connected to Ton-Connect. In this case, a link to the TonKeeper wallet is returned.
+
+## Usage Instructions
+
+### 1. Run Server
+```bash
+npm run start:server:dev
+```
+
+### 2. Explore Documentation
+http://127.0.0.1:4000/api-docs/
+
+### 3. Try it out!
+
