@@ -13,18 +13,18 @@
 
 ## Deployed Contract
 
-- **TON Testnet Contract**: [https://testnet.tonviewer.com/kQCbVMWAMeUXQzW-ANL7X794p8EYcmNedACqXL4bMBSzR-Jr](#) 
+- **TON Testnet Contract**: [here](https://testnet.tonviewer.com/kQCbVMWAMeUXQzW-ANL7X794p8EYcmNedACqXL4bMBSzR-Jr) 
 
-### URL of a Successful Transaction: [https://testnet.tonviewer.com/transaction/992653b538d12992f495099a6be88b1c451ba3e378980f085b215a6987687dcc](#)
+### URL of a Successful Transaction: [here](https://testnet.tonviewer.com/transaction/992653b538d12992f495099a6be88b1c451ba3e378980f085b215a6987687dcc)
 
 ### Screenshot of a Successful Transaction
-![https://github.com/sudovag3/TAO/blob/main/2024-06-08%2013.16.52.jpg?raw=true](#)
+![sreenshot](https://github.com/sudovag3/TAO/blob/main/2024-06-08%2013.16.52.jpg?raw=true)
 
 ## Usage Instructions
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository_url>
+git clone https://github.com/sudovag3/Ton-Jetton-Distribute-Contract.git
 ```
 
 ### 2. Install Dependencies
